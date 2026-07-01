@@ -12,6 +12,12 @@
     <a href="https://linkedin.com/in/ansh-lachhwani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
   
+  <br/>
+  
+  <a href="https://github.com/gummybearansh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gummybearansh&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=0e75b6" alt="Top Langs" />
+  </a>
+  
 </div>
 
 ---
@@ -71,10 +77,7 @@
 
 <div align="center">
   <a href="https://github.com/gummybearansh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gummybearansh&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=0e75b6" alt="Top Langs" width="48%" />
-  </a>
-  <a href="https://github.com/gummybearansh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gummybearansh&theme=dracula&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gummybearansh&theme=dracula&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak" />
   </a>
 </div>
 
