@@ -16,49 +16,62 @@
 
 ---
 
-### 👨🏻‍💻 About Me
+### 👨🏻‍💻 The Blueprint
 
 - 🔭 **Currently working at:** [Anakin (YC21)](https://anakin.ai) as a Software Engineer.
-- 🚀 **Currently building:** **Campus Connect** and **NodeMind** (Multi-agent infrastructure).
-- 🌱 **Currently learning:** Go, Distributed Systems, Agentic AI, and RAG.
-- ⚙️ **Workflow:** I've abandoned standard IDEs for a custom **Neovim + Ghostty + TMUX** ecosystem. [Check out my dotfiles](https://github.com/gummybearansh/config).
-- 🧠 **Competitive Programming:** Catch me upsolving with sliding windows on [Codeforces](https://codeforces.com/profile/gummybearansh) and [LeetCode](https://www.leetcode.com/gummybearansh).
-- ⚡ **Fun Fact:** I use Neovim BTW... and parsing HTML with regex is a cardinal sin.
+- 🚀 **Building & Scaling:** **Campus Connect** (scaled to 1k+ calls on launch) and **NodeMind** (Multi-agent infra).
+- 🌱 **Currently exploring:** Go, Distributed Systems, Agentic AI, Web3, and RAG architectures.
+- ⚙️ **Workflow:** Abandoned standard IDEs for a completely custom **Neovim + Ghostty + TMUX** setup. (Yes, it's [configured in Lua](https://github.com/gummybearansh/config)).
+- 🧠 **Problem Solving:** Upsolving on [Codeforces](https://codeforces.com/profile/gummybearansh) and LeetCode. (Sliding windows over bitwise operations any day).
+- ⚡ **Fun Fact:** I use Neovim BTW... and using regex for HTML parsing is a cardinal sin I refuse to commit.
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" /> Tech Stack & Arsenal
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><b>Languages</b></td>
-    <td align="center" width="25%"><b>Backend & DBs</b></td>
-    <td align="center" width="25%"><b>DevOps & Cloud</b></td>
-    <td align="center" width="25%"><b>Tools & ML</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp,go,py,ts,js,bash" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,redis,cassandra,mysql,sqlite" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,nginx,grafana" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=neovim,git,tensorflow,pytorch,blender,postman,jest" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p>I ditched the cluttered table for a cleaner, breathing layout. Here are the tools I use to build things from scratch.</p>
+
+  <br/>
+  <h4><b>Languages</b></h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cpp,go,py,ts,js,bash,lua,c&perline=8" alt="Languages"/>
+    </a>
+  </p>
+  
+  <br/>
+  <h4><b>Backend & Databases</b></h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,redis,cassandra,mysql,sqlite&perline=9" alt="Backend and DBs"/>
+    </a>
+  </p>
+  
+  <br/>
+  <h4><b>DevOps, Cloud & Architecture</b></h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,nginx,grafana&perline=8" alt="Cloud and DevOps"/>
+    </a>
+  </p>
+  
+  <br/>
+  <h4><b>Tools, AI & ML</b></h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=neovim,git,tensorflow,pytorch,unity,blender,postman,jest&perline=8" alt="Tools and ML"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-### 📊 GitHub Analytics
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" /> GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/gummybearansh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gummybearansh&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true&bg_color=0D1117&title_color=0e75b6" alt="Top Langs" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gummybearansh&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=0e75b6" alt="Top Langs" width="48%" />
   </a>
   <a href="https://github.com/gummybearansh">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gummybearansh&theme=dracula&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak" width="48%" />
