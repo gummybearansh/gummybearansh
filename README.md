@@ -1,37 +1,73 @@
-<h1 align="center">Hi 👋, I'm Ansh Lachhwani</h1>
-<h3 align="center">Trying to be as cracked an engineer as possible.</h3>
+<div align="center">
+  
+  <h1>Hi 👋, I'm Ansh Lachhwani</h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Anakin+(YC21);Founder+of+Campus+Connect+%26+Studio+48;Building+Multi-Agent+Systems;Neovim+%2B+TMUX+Maximalist" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gummybearansh&label=Profile%20views&color=0e75b6&style=flat" alt="gummybearansh" /> </p>
+  <p><b>Trying to be as cracked an engineer as possible.</b></p>
 
-<p align="left"> <a href="https://twitter.com/gummybearansh" target="blank"><img src="https://img.shields.io/twitter/follow/gummybearansh?logo=twitter&style=for-the-badge" alt="gummybearansh" /></a> </p>
+  <p>
+    <a href="https://github.com/gummybearansh"><img src="https://komarev.com/ghpvc/?username=gummybearansh&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" /></a>
+    <a href="https://twitter.com/gummybearansh"><img src="https://img.shields.io/twitter/follow/gummybearansh?logo=x&style=for-the-badge&color=black" alt="Twitter" /></a>
+    <a href="https://linkedin.com/in/ansh-lachhwani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
+  
+</div>
 
-- 🔭 I’m currently working at **Anakin (YC21) as a software engineer**
+---
 
-- 🌱 I’m currently learning **Go, distributed systems, making things from scratch**
+### 👨🏻‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [github.com/gummybearansh](github.com/gummybearansh)
+- 🔭 **Currently working at:** [Anakin (YC21)](https://anakin.ai) as a Software Engineer.
+- 🚀 **Currently building:** **Campus Connect** and **NodeMind** (Multi-agent infrastructure).
+- 🌱 **Currently learning:** Go, Distributed Systems, Agentic AI, and RAG.
+- ⚙️ **Workflow:** I've abandoned standard IDEs for a custom **Neovim + Ghostty + TMUX** ecosystem. [Check out my dotfiles](https://github.com/gummybearansh/config).
+- 🧠 **Competitive Programming:** Catch me upsolving with sliding windows on [Codeforces](https://codeforces.com/profile/gummybearansh) and [LeetCode](https://www.leetcode.com/gummybearansh).
+- ⚡ **Fun Fact:** I use Neovim BTW... and parsing HTML with regex is a cardinal sin.
 
-- I use a completely custom Neovim + TMUX config - check it out [github.com/gummybearansh/config](github.com/gummybearansh/config)
+---
 
-- 💬 Ask me about **CPP, Python, TS/JS**
+### 🛠️ Tech Stack & Arsenal
 
-- 📫 How to reach me **gummybearansh@gmail.com**
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>Languages</b></td>
+    <td align="center" width="25%"><b>Backend & DBs</b></td>
+    <td align="center" width="25%"><b>DevOps & Cloud</b></td>
+    <td align="center" width="25%"><b>Tools & ML</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp,go,py,ts,js,bash" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,redis,cassandra,mysql,sqlite" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,nginx,grafana" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=neovim,git,tensorflow,pytorch,blender,postman,jest" />
+    </td>
+  </tr>
+</table>
 
-- 📄 Know about my experiences [https://github.com/gummybearansh/resume](https://github.com/gummybearansh/resume)
+---
 
-- ⚡ Fun fact **I use Neovim BTW**
+### 📊 GitHub Analytics
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gummybearansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gummybearansh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ansh-lachhwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansh-lachhwani" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gummybearansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gummybearansh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gummybearansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gummybearansh" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="https://github.com/gummybearansh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gummybearansh&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true&bg_color=0D1117&title_color=0e75b6" alt="Top Langs" width="48%" />
+  </a>
+  <a href="https://github.com/gummybearansh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gummybearansh&theme=dracula&hide_border=true&background=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak" width="48%" />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gummybearansh&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gummybearansh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gummybearansh&" alt="gummybearansh" /></p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
+  <p>📫 Reach out at: <b><a href="mailto:gummybearansh@gmail.com">gummybearansh@gmail.com</a></b> | 📄 View my <b><a href="https://github.com/gummybearansh/resume">Resume</a></b></p>
+</div>
