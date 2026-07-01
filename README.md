@@ -34,7 +34,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="20" /> **Workflow:** Abandoned standard IDEs for a completely custom **Neovim + Ghostty + TMUX** setup. (Yes, it's [configured in Lua](https://github.com/gummybearansh/config)).
 </p>
 <p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="Brain" width="25" height="25" />**Problem Solving:** Catch me upsolving on <a href="https://codeforces.com/profile/gummybearansh">Codeforces</a> or <a href="https://www.leetcode.com/gummybearansh">LeetCode</a>.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" />**Problem Solving:** Catch me upsolving on <a href="https://codeforces.com/profile/gummybearansh">Codeforces</a> or <a href="https://www.leetcode.com/gummybearansh">LeetCode</a>.
 </p>
 <p>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" /> **Fun Fact:** I use Neovim BTW... and using regex for HTML parsing is a cardinal sin I refuse to commit.
