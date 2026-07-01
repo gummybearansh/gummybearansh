@@ -45,7 +45,6 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" /> Tech Stack & Arsenal
 
 <div align="center">
-  <p>A breathing layout of the core tools I use to build things from scratch.</p>
 
   <br/>
   <h4><b>Languages</b></h4>
