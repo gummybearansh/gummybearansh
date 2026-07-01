@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Hi 👋, I'm Ansh Lachhwani</h1>
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Hi, I'm Ansh Lachhwani</h1>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Anakin+(YC21);Founder+of+Campus+Connect+%26+Studio+48;Building+Multi-Agent+Systems;Neovim+%2B+TMUX+Maximalist" alt="Typing SVG" />
 
@@ -10,33 +10,42 @@
     <a href="https://github.com/gummybearansh"><img src="https://komarev.com/ghpvc/?username=gummybearansh&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" /></a>
     <a href="https://twitter.com/gummybearansh"><img src="https://img.shields.io/twitter/follow/gummybearansh?logo=x&style=for-the-badge&color=black" alt="Twitter" /></a>
     <a href="https://linkedin.com/in/ansh-lachhwani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <br/>
+    <a href="https://codeforces.com/profile/gummybearansh"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" /></a>
+    <a href="https://www.leetcode.com/gummybearansh"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
   </p>
-  
-  <br/>
-  
-  <a href="https://github.com/gummybearansh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gummybearansh&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=0e75b6" alt="Top Langs" />
-  </a>
   
 </div>
 
 ---
 
-### 👨🏻‍💻 The Blueprint
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" /> The Blueprint
 
-- 🔭 **Currently working at:** [Anakin (YC21)](https://anakin.ai) as a Software Engineer.
-- 🚀 **Building & Scaling:** **Campus Connect** (scaled to 1k+ calls on launch) and **NodeMind** (Multi-agent infra).
-- 🌱 **Currently exploring:** Go, Distributed Systems, Agentic AI, Web3, and RAG architectures.
-- ⚙️ **Workflow:** Abandoned standard IDEs for a completely custom **Neovim + Ghostty + TMUX** setup. (Yes, it's [configured in Lua](https://github.com/gummybearansh/config)).
-- 🧠 **Problem Solving:** Upsolving on [Codeforces](https://codeforces.com/profile/gummybearansh) and LeetCode. (Sliding windows over bitwise operations any day).
-- ⚡ **Fun Fact:** I use Neovim BTW... and using regex for HTML parsing is a cardinal sin I refuse to commit.
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" /> **Currently working at:** [Anakin (YC21)](https://anakin.ai) as a Software Engineer.
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" /> **Building & Scaling:** **Campus Connect** (scaled to 1k+ calls on launch) and **NodeMind** (Multi-agent infra).
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" /> **Currently exploring:** Go, Distributed Systems, Agentic AI, Web3, and RAG architectures.
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="20" /> **Workflow:** Abandoned standard IDEs for a completely custom **Neovim + Ghostty + TMUX** setup. (Yes, it's [configured in Lua](https://github.com/gummybearansh/config)).
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Brain.png" alt="Brain" width="20" /> **Problem Solving:** Upsolving bitwise operations with sliding windows. Catch me upsolving on <a href="https://codeforces.com/profile/gummybearansh">Codeforces</a> or <a href="https://www.leetcode.com/gummybearansh">LeetCode</a>.
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="20" /> **Fun Fact:** I use Neovim BTW... and using regex for HTML parsing is a cardinal sin I refuse to commit.
+</p>
 
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" /> Tech Stack & Arsenal
 
 <div align="center">
-  <p>I ditched the cluttered table for a cleaner, breathing layout. Here are the tools I use to build things from scratch.</p>
+  <p>A breathing layout of the core tools I use to build things from scratch.</p>
 
   <br/>
   <h4><b>Languages</b></h4>
