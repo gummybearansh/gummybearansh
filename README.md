@@ -22,7 +22,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" /> The Blueprint
 
 <p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" /> <b>Currently working at:</b> [Anakin (YC21)](https://anakin.ai) as a Software Engineer.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" /> <b>Currently working at:</b> <a href="https://anakin.ai">Anakin (YC21)</a> as a Software Engineer.
 </p>
 <p>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" /> <b>Building & Scaling:</b> <b>Campus Connect</b> (scaled to 1k+ calls on launch) and <b>NodeMind</b> (Multi-agent infra).
@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" /> <b>Currently exploring:</b> Go, Distributed Systems, Agentic AI, Web3, and RAG architectures.
 </p>
 <p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="20" /> <b>Workflow:</b> Abandoned standard IDEs for a completely custom <b>Neovim + Ghostty + TMUX</b> setup. (Yes, it's [configured in Lua](https://github.com/gummybearansh/config)).
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="20" /> <b>Workflow:</b> Abandoned standard IDEs for a completely custom <b>Neovim + Ghostty + TMUX</b> setup. (Yes, it's <a href="https://github.com/gummybearansh/config">configured in Lua</a>).
 </p>
 <p>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" /> <b>Problem Solving:</b> Catch me upsolving on <a href="https://codeforces.com/profile/gummybearansh">Codeforces</a> or <a href="https://www.leetcode.com/gummybearansh">LeetCode</a>.
